@@ -11,3 +11,6 @@ transformers
 vector-quantize-pytorch
 vocos
 waitress
+ollama
+streamlit
+streamlit_mic_recorder
